@@ -1,16 +1,48 @@
-# bapsim
+# Bapsim 🍱  
+A personalized side dish recommendation system designed to solve the daily question, *"What should I eat today?"* Bapsim helps you create a balanced and delightful meal with smart recommendations.
 
-A new Flutter project.
+## 🌟 Key Features
+- **Rule-Based Recommendations**: Suggests complementary side dishes using filtering, rule-based logic, and scoring algorithms.
+- **Seasonal Prioritization**: Highlights dishes suitable for the selected season.
+- **Shopping Cart & Checkout**: Add recommended dishes to your cart, view total prices, and complete purchases.
+- **Community Interaction**: Share reviews, ratings, and favorites with other users.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Future Plans
+We aim to evolve Bapsim into a smarter, AI-driven platform with the following enhancements:
+1. **AI Integration**:
+   - **Collaborative Filtering**: Recommend dishes based on the preferences and ordering patterns of similar users.
+   - **Sentiment Analysis**: Highlight stores and dishes with positive user reviews.
+2. **Advanced Personalization**:
+   - Health-focused recommendations based on user input (e.g., allergies, dietary goals).
+3. **Real-Time Adaptability**:
+   - Dynamic adjustments based on real-time popularity and seasonal trends.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 💻 Tech Stack
+- **Frontend**: Flutter  
+- **Backend**: Flask (Python)  
+- **Database**: SQLite (local testing), MariaDB (deployment)  
+- **Logic**:
+  - Filtering, rule-based, and scoring system for dish compatibility and user preferences.
+- **Tools**:
+  - VS Code, Colab, Conda, and Kakao API for location-based services.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📖 How to Use
+1. **Setup Your Preferences**: Input dietary preferences and restrictions during signup.
+2. **Get Recommendations**:
+   - Option 1: Let AI recommend side dishes based on your preferences.
+   - Option 2: Customize settings like season, dish type, and health focus.
+3. **Order and Enjoy**: Select dishes, add them to your cart, and complete the purchase.
+
+---
+
+## 🛠 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Chris99ChangHo/bapsim.git
+2. Navigate to the project directory:
