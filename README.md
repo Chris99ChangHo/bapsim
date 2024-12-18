@@ -49,12 +49,12 @@ We aim to evolve Bapsim into a smarter, AI-driven platform with the following en
    '''bash
    cd bapsim
 3. Install backend dependencies:
-   ''' bash
+   '''bash
    pip install -r requirements.txt
 4. Run the backend server:
-   ''' bash
+   '''bash
    python flask_server.py
 5. Set up the Flutter environment and run the app:
-   ''' bash
+   '''bash
    flutter pub get
    flutter run
