@@ -44,17 +44,17 @@ We aim to evolve Bapsim into a smarter, AI-driven platform with the following en
 ## 🛠 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Chris99ChangHo/bapsim.git\
+   git clone https://github.com/Chris99ChangHo/bapsim.git'
 2. Navigate to the project directory:
    '''bash
-   cd bapsim\
+   cd bapsim'
 3. Install backend dependencies:
    '''bash
-   pip install -r requirements.txt\
+   pip install -r requirements.txt'
 4. Run the backend server:
    '''bash
-   python flask_server.py\
+   python flask_server.py'
 5. Set up the Flutter environment and run the app:
    '''bash
    flutter pub get
-   flutter run\
+   flutter run'
