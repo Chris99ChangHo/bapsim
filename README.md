@@ -77,5 +77,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 👨‍💻 About the Developer
 Developed by bapsim from the Samyook University Venture Startup Academy.
 - GitHub: Chris99ChangHo
-- Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn Here]
+- Email: []
+- LinkedIn: []
