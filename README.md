@@ -1,5 +1,5 @@
 # Bapsim 📱  
-A personalized side dish recommendation system designed to solve the daily question, *"What should I eat today?"* Bapsim helps you create a balanced and delightful meal with smart recommendations.
+A personalized side dish recommendation **application** designed to solve the daily question, *"What should I eat today?"* Bapsim helps you create a balanced and delightful meal with smart recommendations.
 
 ## 🌟 Key Features
 - **Rule-Based Recommendations**: Suggests complementary side dishes using filtering, rule-based logic, and scoring algorithms.
