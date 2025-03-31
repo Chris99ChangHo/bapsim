@@ -85,5 +85,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 👨‍💻 About the Developer
 - GitHub: Chris99ChangHo
-- Email: []
-- LinkedIn: []
+- Email: [awakeev.d@gmail.com]
+- LinkedIn: [www.linkedin.com/in/창호-장-5430a8342]
