@@ -62,6 +62,10 @@ We aim to evolve Bapsim into a smarter, AI-driven platform with the following en
 ---
 
 ## 📸 Screenshots
+![Screenshot_1743403118](https://github.com/user-attachments/assets/af8d3334-0b8a-4208-82d0-7d484a2c3048)
+![Screenshot_1743403174](https://github.com/user-attachments/assets/69f5282b-20a4-4d82-83a3-24230b7ddd22)
+![Screenshot_1743403222](https://github.com/user-attachments/assets/654ae778-0b0d-43df-a42f-1ecdeeb8aaf1)
+
 사진 몇장 넣어두던지 시연 영상으로 바꾸어서 영상 첨부?
 
 ---
