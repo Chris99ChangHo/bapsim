@@ -22,9 +22,9 @@ We aim to evolve Bapsim into a smarter, AI-driven platform with the following en
 ---
 
 ## 💻 Tech Stack
-- **Frontend**: Flutter  
+- **Frontend**: Flutter (Dart)
 - **Backend**: Flask (Python)  
-- **Database**: SQLite (local testing), MariaDB (deployment)  
+- **Database**: MariaDB (MySQL) for local testing
 - **Logic**:
   - Filtering, rule-based, and scoring system for dish compatibility and user preferences.
 - **Tools**:
@@ -58,6 +58,17 @@ We aim to evolve Bapsim into a smarter, AI-driven platform with the following en
    ```bash
    flutter pub get
    flutter run
+
+---
+
+## 💡 Mobile Emulator Setup
+If you want to run the app in a mobile environment, set up an Android Emulator:
+
+1. Install Android Studio: Download and install Android Studio.
+2. Create and Run an Emulator: Use the AVD Manager in Android Studio to create and start a virtual device.
+3. Run the App: Use flutter run to launch the app on the emulator.
+
+Using an emulator is recommended for development as it avoids wear and tear on physical devices.
 
 ---
 
